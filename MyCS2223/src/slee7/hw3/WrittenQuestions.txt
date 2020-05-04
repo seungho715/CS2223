@@ -1,0 +1,6 @@
+<<Seungho Lee>>
+HW3
+Written Questions
+
+Q1. The empirical results support the proposition. 
+According to the output, it has been proven that it takes less than 2N comparisons and less than N exchanges for a heap from N times.
